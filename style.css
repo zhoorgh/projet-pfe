@@ -1,0 +1,412 @@
+
+body{
+   
+}
+
+
+.homme
+{
+    background-color:red;
+   
+}
+
+.logo
+{
+    height: 170px;
+   
+    
+}
+.img2
+{
+ 
+    height: 120Px;
+   
+
+    
+    
+}
+#lg{
+    margin-top:-13px;
+    color: red;
+    width: 1020px;
+}
+.logo img
+{
+  
+    height: 120Px;
+    
+}
+
+.menu
+{
+   margin-top: 20px;
+    width: 1100px;
+    margin-left: 140px;
+}
+
+.laune h3{
+    background-color: blueviolet;
+    color:snow;
+    padding: 8px;
+    width: 97PX;
+    font-size: 17px;
+    margin-left: 123PX
+    
+}
+.laune p{
+    border: 1px solid gray;
+    width: 643PX;
+    position: relative;
+    top:-10px;
+     margin-left: 123PX
+}
+
+
+.slider
+{
+    width: 930PX;
+    height: 500px;
+    margin-left: 110px;
+    background-color: aquamarine;
+    margin-top: 3px;
+    
+}
+.article
+{
+    background-color: brown;
+    margin-left: 150px;
+    width: 700px;
+    height: 1890px;
+}
+.article .laune
+{
+    background-color: red;
+    height: 600px;
+}
+
+.article .laune .une1
+{
+    background-color: chartreuse;
+    width: 340px;
+    height: 580px;
+    margin-left: 10px;
+}
+.une1 img{
+ margin: 20px
+}
+
+.une1 .img1{
+ margin: 6px;
+    margin-top: -4px;
+    margin-left: -442px
+}
+.une1 .img3{
+ margin: 6px;
+    margin-top: 40px;
+    margin-left: 22px
+}
+.une1 H2{
+    width:290px;
+    padding: 14px;
+    margin-top: -20px;
+    margin-left:12px;
+    color:#312f2f;
+      text-transform: uppercase;
+    font-family: verdana;
+    font-size: 18px
+}
+.une1 span{
+    margin-top:-440px;
+    margin-left: 150px;
+    font-size: 13px;
+    color: red;
+}
+.une2 .img1{
+ margin: 6px;
+    margin-top: -4px;
+    margin-left: 22px
+}
+.une1 H4{
+    width:230px;
+    margin-top: -70PX;
+    margin-left: 149PX;
+    color:#312f2f;
+    font-family: verdana;
+    font-size: 15px;
+}
+.video{
+     margin-left:93PX
+}
+.video video{
+    width:240PX;
+    height: 185px;
+   
+}
+.video h3{
+    background-color: #ffdb15;
+    color:snow;
+    padding: 8px;
+    width: 109PX;
+    font-size: 14px;
+    font-family: verdana;
+    height: 3px;
+    
+}
+.video p{
+    width: 609PX;
+    margin-top: -12px;
+    border:1px solid gray;
+}
+
+.c1 h3{
+    background-color: black;
+    padding: 5px;
+    font-size: 14px;
+    width: 200px;
+    color: white;
+    margin-top: 23px
+}
+.c1 p {
+    border:1px solid gray;
+    margin-top: -10px;
+    width: 344PX
+    
+}
+.une1{
+    margin-left: 100px
+}
+.une2 img{
+ margin: 20px;
+    
+}
+.une2 H4{
+    width:230px;
+    margin-top: -70PX;
+    margin-left:137PX;
+    color:#312f2f;
+    font-family: verdana;
+    font-size: 15px;
+}
+.une2 .img{
+ margin: 6px;
+    margin-top: -177px;
+    margin-left: 22px;
+}
+.une2 .img3{
+ margin: 6px;
+    margin-top: 32px;
+    margin-left: 22px
+}
+.une2 H2{
+    width:290px;
+    padding: 14px;
+    margin-top: -20px;
+    margin-left:12px;
+    color:#312f2f;
+      text-transform: uppercase;
+    font-family: verdana;
+    font-size: 18px
+}
+.une2 span{
+    margin-top:-40px;
+    margin-left: 134px;
+    font-size: 13px;
+    color: red;
+}
+.maison p{
+    border: 1px solid red;
+    width: 483PX;
+    position: relative;
+    top:-12px;
+    margin-left: 113px
+}
+.sante{
+    margin-left: 90px
+}
+.evevideo p{
+    border: 1px solid red;
+    width: 483PX;
+    position: relative;
+    top:-18px
+}
+
+.beaute p{
+    border: 1px solid red;
+    width: 483PX;
+    position: relative;
+    top:-18px
+}
+.une1 H5{
+    width:110px;
+    padding: 14px;
+    margin-top: -116px;
+    margin-left:132px;
+    color:#312f2f;
+      text-transform: uppercase;
+    font-family: verdana;
+    font-size: 12px
+}
+.maison {
+    margin-left: 32px;
+    margin-top: 12px;        
+}
+
+
+.article .maison
+{
+    margin-top: 20px;
+    background-color: gray;
+    height: 300px;
+}
+.article .evevideo
+{
+    margin-top: 20px;
+    background-color: yellow;
+    height: 300px;
+}
+.evevideo img{
+    margin-left: 13PX
+}
+.evevideo h3{
+
+    background-color: blueviolet;
+    color:snow;
+    padding: 8px;
+    width: 109PX;
+    font-size: 14px;
+    font-family: verdana;
+
+
+
+}
+.laune h3{
+    background-color: blueviolet;
+    color:snow;
+    padding: 8px;
+    width: 97PX;
+    font-size: 14px;
+    font-family: VERDANA
+    
+}
+.beaute h3{
+    background-color: blueviolet;
+    color:snow;
+    padding: 8px;
+    width: 159PX;
+    font-size: 14px;
+    font-family: verdana
+    
+}
+.article .beaute
+{
+    margin-top: 20px;
+    background-color: pink;
+    height: 600px;
+}
+.maison h3{
+    background-color: red;
+    color:snow;
+    padding: 8px;
+    width: 109PX;
+    font-size: 14px;
+    font-family: verdana;
+    margin-left: 90px
+    
+}
+.fashion h3{
+    background-color: #db4f7a;
+    color:snow;
+    padding: 8px;
+    width: 189PX;
+    font-size: 14px;
+    font-family: verdana
+    
+}
+.sante h3{
+    background-color: #3d78ff;
+    color:snow;
+    padding: 8px;
+    width: 109PX;
+    font-size: 14px;
+    font-family: verdana;
+    margin-left: 12PX
+    
+}
+.fashion h3{
+      background-color: #c13e84;
+    color:snow;
+    padding: 8px;
+    width: 139PX;
+    font-size: 14px;
+    font-family: verdana;
+    margin-left: 12PX
+}
+
+.sante p{
+    border: 1px solid #a29c9c;
+    width: 483PX;
+    margin-left: 12px;
+    margin-top: -12px
+}
+.maison h5{
+   
+    color:#080808;
+    padding: 3px;
+    width: 179PX;
+    font-size: 17px;
+    margin-left: 4PX;
+    margin-top: 8px
+    
+}
+.maison h4{
+   
+    color:snow;
+    padding: 3px;
+    width: 179PX;
+    font-size: 17px;
+    
+    margin-top: -80px
+    
+}
+.maison h5 span{
+color: red;
+}
+.maison h6{
+   
+    color:snow;
+    padding: 3px;
+    width: 179PX;
+    font-size: 17px;
+    margin-left: 260PX;
+    margin-top:-90px;  
+}
+.pub
+{
+    width: 400px;
+    height: 1890px;
+    margin-left: 900px;
+    margin-top: -1890px;
+    background-color: orchid;
+}
+.fashion
+{
+    margin-left: 100px;
+}
+.footer
+{
+    height: 25px;
+    background-color: black;
+    margin:12px
+    
+   
+}
+.sante span{
+    color: blue;
+    padding: 5px;
+    
+}
+.footer p{
+    
+    color: white;
+    margin-left: 120px
+}
